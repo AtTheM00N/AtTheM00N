@@ -1,8 +1,7 @@
-Hi, I'm Rudraksh 👋
-
+Rudraksh Tiwari 👋
 B.Tech Bioinformatics Student at Amity University
-
-Interested in Python, SQL, Excel, AI, and Automation.
+Interested in Python, SQL, Excel, AI, and Automation. 
+I enjoy building tools that automate repetitive work and turn data into actionable insights.
 
 Current Focus
 
