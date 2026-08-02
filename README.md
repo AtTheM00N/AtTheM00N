@@ -1,6 +1,27 @@
+Hi, I'm Rudraksh 👋
 
+B.Tech Bioinformatics Student at Amity University
 
-<!---
-AtTheM00N/AtTheM00N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Interested in Python, SQL, Excel, AI, and Automation.
+
+Current Focus
+
+- Building automation tools
+- Data analysis
+- AI-powered workflows
+
+Tech Stack
+
+- Python
+- SQL
+- Excel
+- Pandas
+- NumPy
+- Git
+- HTML/CSS (Learning)
+- JavaScript (Refreshing)
+
+Current Projects
+
+- Excel Automation Toolkit (In Progress)
+- More coming soon...
